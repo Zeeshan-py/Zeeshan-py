@@ -2,11 +2,11 @@
 
 👋 Hi, I’m **@Zeeshan-Ahmad-5**
 
-Welcome to my GitHub profile! I am passionate about Python programming and always eager to learn new things in the world of coding.
+Welcome to my GitHub profile! I am passionate about programming and always eager to learn new things in the world of coding.
 
 ## 🚀 About Me
 
-- 👀 **Interests**: Python Development, Scratch, Html 
+- 👀 **Interests**: Python Development, Scratch, Html , CSS , JavaScript 
 - 🌱 **Currently Learning**: Python programming, Libraries, and Frameworks
 - 📧 **Contact**: [Zeeshanahmad0159@gmail.com](mailto\:Zeeshanahmad0159@gmail.com)
 
@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I am passionate about Python programming and alway
 - 🐍 Python
 - Scratch
 - Html
+- CSS
+- JavaScript
 - Project Management
 
 ## 🔗 Connect with Me
