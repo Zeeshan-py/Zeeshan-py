@@ -172,7 +172,6 @@ Creating robust enterprise applications and Android solutions.
 ## 🏆 Achievements
 
 <div align="center">
-## 🏆 GitHub Achievements
 
 ![YOLO](https://img.shields.io/badge/Achievement-YOLO-ff69b4?style=for-the-badge)
 ![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-0A66C2?style=for-the-badge)
