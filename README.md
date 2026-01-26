@@ -173,7 +173,7 @@ Creating robust enterprise applications and Android solutions.
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zeeshan-Ahmad-5&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zeeshan-Ahmad-5&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5&cache_seconds=1)
 
 </div>
 
