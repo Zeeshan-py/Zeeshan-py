@@ -154,19 +154,20 @@ Creating robust enterprise applications and Android solutions.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<h2>📊 GitHub Analytics</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zeeshan-Ahmad-5&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Zeeshan-py&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Zeeshan-Ahmad-5&theme=tokyonight&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-py&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-Ahmad-5&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-py&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
